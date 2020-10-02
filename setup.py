@@ -38,6 +38,7 @@ setup(name='gcalcli',
           'httplib2',
           'oauth2client',
           'parsedatetime',
+          'vobject',
       ],
       extras_require={
           'vobject': ["vobject"],
